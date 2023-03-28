@@ -1,5 +1,11 @@
-header
-body{
+header {
     background-color: black;
     color:White;
-} 
+}
+
+.cabecalho-imagem{
+  width: 20%;
+}
+
+
+   
